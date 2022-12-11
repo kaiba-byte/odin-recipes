@@ -1,0 +1,12 @@
+h1 {
+    font-family: "Brush Script M7", "Lucida Handwriting", cursive;
+    color: rgb(255, 0, 0);
+    background-color: black;
+    text-align: center;
+    font: size 30px;
+}
+
+.dillas {
+    height: 600px;
+    width: auto
+}
